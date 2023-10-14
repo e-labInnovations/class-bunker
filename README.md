@@ -17,6 +17,10 @@ Class Bunker is a Chrome extension designed for B.Tech students using Etlab. It 
 
 ## Install Locally
 
+### 1. Download from Release Page
+Visit the [Release Page](https://github.com/e-labInnovations/class-bunker/releases/latest) and download the latest release (e.g., `class-bunker-v1.0.0.zip`).
+
+
 ### Chrome
 1. Open Chrome and navigate to the extensions page using this URL: `chrome://extensions`.
 2. Enable "Developer mode".
