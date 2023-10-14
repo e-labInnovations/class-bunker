@@ -1,1 +1,25 @@
-# Class Bunker
+# <img src="./documentation/icon.png" alt="Icon" style="margin-bottom: -15px;" height="50"> Class Bunker
+
+> Chrome extension for optimizing student attendance decisions in Etlab
+
+Class Bunker is a Chrome extension designed for B.Tech students using Etlab. It provides attendance insights by analyzing class attendance percentages and suggesting whether students can afford to bunk or should attend the next class. The extension calculates potential future attendance percentages, helping users make informed decisions about their class attendance strategy. Customize your study routine with Class Bunker to strike the perfect balance between attending classes and optimizing your schedule.
+
+## Screenshots
+<img src="./documentation/ss_1.png" style="max-width: 100%">
+<img src="./documentation/ss_2.png" style="max-width: 100%">
+
+## Release
+
+[![GitHub release](https://img.shields.io/github/release/e-labInnovations/class-bunker.svg)](https://github.com/e-labInnovations/class-bunker/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/e-labInnovations/class-bunker.svg)](https://github.com/e-labInnovations/class-bunker/blob/main/LICENSE)
+
+*Changelog and release notes can be found in the [Releases](https://github.com/e-labInnovations/class-bunker/releases) section.*
+
+## Install Locally
+
+### Chrome
+1. Open Chrome and navigate to the extensions page using this URL: `chrome://extensions`.
+2. Enable "Developer mode".
+3. Click the "Load unpacked extension" button, browse the `class-bunker-v1.0.0` directory, and select it.
+
+<img src="./documentation/ss_3.png" style="max-width: 100%">
