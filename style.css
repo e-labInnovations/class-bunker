@@ -1,0 +1,46 @@
+/* General styling for the table cell */
+.classBunkerCell {
+    text-align: center;
+    white-space: nowrap;
+}
+
+/* Styling for the inner container div */
+.classBunkerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Styling for the attend percentage div */
+.classBunkerAttendPercentage {
+    padding: 10px;
+}
+
+/* Styling for the bunk percentage div */
+.classBunkerBunkPercentage {
+    padding: 10px;
+}
+
+/* Styling for the action div when attending (danger) */
+.classBunkerActionAttend {
+    background-color: red; /* or orange */
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+/* Styling for the action div when bunking (safe) */
+.classBunkerActionBunk {
+    background-color: green;
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+/* Remove margin for the p element inside action divs */
+.classBunkerActionAttend b,
+.classBunkerActionBunk b {
+    margin: 0;
+}

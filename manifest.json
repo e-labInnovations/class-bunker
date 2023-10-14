@@ -6,7 +6,8 @@
     "permissions": [],
     "content_scripts": [{
        "matches": ["https://*.etlab.in/*"],
-       "js": ["script.js"]
+       "js": ["script.js"],
+       "css": ["style.css"]
     }],
     "action": {
        "default_title": "Class Bunker",
