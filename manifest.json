@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Class Bunker",
+    "version": "1.0.0",
+    "description": "Etlab class bunker for B.tech students",
+    "permissions": [],
+    "content_scripts": [{
+       "matches": ["https://*.etlab.in/*"],
+       "js": ["script.js"]
+    }],
+    "action": {
+       "default_title": "Class Bunker",
+       "default_popup": "popup.html",
+       "default_icon": {
+          "16": "assets/icons/icon-16x16.png",
+          "32": "assets/icons/icon-32x32.png",
+          "192": "assets/icons/icon-192x192.png"
+       }
+    }
+ }
+ 
