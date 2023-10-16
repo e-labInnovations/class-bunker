@@ -26,4 +26,14 @@ Visit the [Release Page](https://github.com/e-labInnovations/class-bunker/releas
 2. Enable "Developer mode".
 3. Click the "Load unpacked extension" button, browse the `class-bunker-v1.0.0` directory, and select it.
 
-<img src="./documentation/ss_3.png" style="max-width: 100%">
+<img src="./documentation/ss_3.png" alt="Chrome Extension Installation" style="max-width: 100%">
+
+### Android (Kiwi Browser)
+1. [Install Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) from the Google Play Store.
+2. Open the Kiwi Browser and navigate to `Extensions` page.
+3. Select the `+ (from .zip/.crx/.user.js)` option.
+4. Choose the downloaded zip file (`class-bunker-v1.0.0.zip`) to install the extension.
+
+<img src="./documentation/ss_kiwi_1.jpg" alt="Kiwi Browser Installation Step 1" style="max-width: 33%">
+<img src="./documentation/ss_kiwi_2.jpg" alt="Kiwi Browser Installation Step 2" style="max-width: 33%">
+<img src="./documentation/ss_kiwi_3.jpg" alt="Kiwi Browser Installation Step 3" style="max-width: 33%">
